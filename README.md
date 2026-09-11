@@ -1,2 +1,2 @@
-# pos-engenharia-de-dados
-Execicios da Pós em Engenharia de Dados
+# pos-engenharia-de-dados e IA
+Exercícios da Pós em Engenharia de Dados e IA
